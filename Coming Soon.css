@@ -1,0 +1,28 @@
+.topnav {
+    background-color:lightgray;
+    overflow: hidden; /*content will be invisible*/
+}
+  
+.topnav a {
+    float: right;
+    background-color:lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-size: 23px;
+}
+a:hover{
+    border: ridge rgb(204, 247, 247);
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(211, 176, 211);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("https://i.pinimg.com/564x/96/50/64/9650646fd755d5279eeedfa14abf2608.jpg");
+}  
+.para{
+  font-size: 23px;
+  line-height: 250%;
+}
