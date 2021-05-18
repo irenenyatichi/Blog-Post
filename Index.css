@@ -20,7 +20,7 @@ body{
 }
 #text{ 
   color: black;
-  font-size: 160px;
+  font-size: 145px;
   position: absolute; /*positions my text relative to its closest positioned ancestor*/
   text-align: center;
   font-style: italic;
