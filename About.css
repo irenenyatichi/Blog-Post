@@ -19,17 +19,11 @@ body{
   background-color: rgb(211, 176, 211);
 } 
 .para1{
-  padding: 40px;
-  margin: 50px;
-  width: 1000px;
-  align-items: justify;
-  line-height: 250%;
+  float: right;
+  line-height: 300%;
   font-size: larger;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-style: italic;
-  font-weight: bold;
 }
-.images{
-  height: 10%;
-  margin-left: 20%;
+.img{
+  float: left;
 }
