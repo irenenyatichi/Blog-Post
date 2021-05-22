@@ -6,7 +6,7 @@ function typeWriter() {
   }
 }
 const textDisplay = document.getElementById('text')
-const phrases = ["... Irene Nyatichi  ,  Welcome  ..."]
+const phrases = ["... Irene Nyatichi,Welcome ..."]
 let i = 0
 let j =0
 let currentPhrase = []
@@ -25,4 +25,3 @@ function loop(){
 }
 }
 loop();
-
