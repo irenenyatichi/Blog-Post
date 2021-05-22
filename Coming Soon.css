@@ -18,3 +18,9 @@ body{
   font-size: 23px;
   line-height: 250%;
 }
+h3{
+  color: #4d545e;
+  font-size: 30px;
+  margin-left: 5px;
+  font-family: 'Courier New', Courier, monospace;
+}
